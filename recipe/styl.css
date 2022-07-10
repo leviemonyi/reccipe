@@ -1,0 +1,18 @@
+h2{
+    color: #A4A400;
+    background-color: #F0F0F0;
+}
+
+h1{
+    text-align: center;
+    color: #A4A400;
+    background-color: #F0F0F0;
+    font-size: 22pt;
+    font-family: Lucida 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+} 
+
+p{
+    font-style: italic;
+    background-color: rgb(236, 182, 31);
+}
